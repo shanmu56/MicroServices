@@ -1,0 +1,5 @@
+package com.microservice.limits.limitservices.bean;
+
+public class Configuration {
+
+}
